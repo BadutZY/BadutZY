@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo Saya Bernama BadutZY (RIZKY)
 
 <!--
 **BadutZY/BadutZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
