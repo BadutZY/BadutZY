@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Portal</title>
+    <link rel="website icon" type="image" href="IMG/lg.png">
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- SweetAlert2 CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11.12.4/dist/sweetalert2.min.css" rel="stylesheet">
+    <style>
+        /* Custom SweetAlert2 theme to match dark design */
+        .swal2-popup {
+            background: var(--bg-card) !important;
+            color: var(--text) !important;
+            border: 1px solid var(--primary) !important;
+            border-radius: 15px !important;
+        }
+        .swal2-title {
+            color: var(--primary) !important;
+        }
+        .swal2-html-container {
+            color: var(--text) !important;
+        }
+        .swal2-confirm {
+            background: linear-gradient(45deg, var(--primary), var(--secondary)) !important;
+            border: none !important;
+            box-shadow: 0 5px 15px rgba(94, 96, 206, 0.4) !important;
+        }
+        .swal2-confirm:hover {
+            background: linear-gradient(45deg, var(--secondary), var(--accent)) !important;
+            transform: translateY(-2px) !important;
+        }
+        .swal2-cancel {
+            background-color: rgba(40, 40, 40, 0.8) !important;
+            border: 1px solid rgba(94, 96, 206, 0.3) !important;
+        }
+    </style>
+</head>
+<body>
+    <!-- Login Page -->
+    <div id="login-page" class="login-container">
+        <div class="login-bg-shapes">
+            <div class="login-shape"></div>
+            <div class="login-shape"></div>
+            <div class="login-shape"></div>
+            <div class="login-shape"></div>
+        </div>
+        <div class="login-box">
+            <div class="login-logo">
+                <i class="fas fa-lock"></i>
+            </div>
+            <h2>Akun Diperlukan</h2>
+            <div class="input-group">
+                <input type="text" id="username" placeholder="Username" required>
+                <i class="fas fa-user"></i>
+            </div>
+            <div class="input-group">
+                <input type="password" id="password" placeholder="Password" required>
+                <i class="fas fa-key"></i>
+            </div>
+            <button class="login-btn" onclick="login()">
+                <span>Login</span> <i class="fas fa-arrow-right"></i>
+            </button>
+        </div>
+    </div>
+
+    <!-- Main Content -->
+    <div id="main-content" class="container" style="display: none;">
+        <header>
+            <h1><i class="fas fa-tasks"></i> Tugas Pribadi</h1>
+            <div class="profile" onclick="toggleDropdown()">
+                BadutZY <img src="IMG/lg.png" alt="Profile">
+            </div>
+            <div id="dropdown" class="dropdown">
+                <a href="#" onclick="logout()"><i class="fas fa-sign-out-alt"></i> Logout</a>
+            </div>
+        </header>
+
+        <nav>
+            <button class="nav-btn" id="btn-tugas" onclick="loadContent('tugas')">
+                <i class="fas fa-book-open"></i> TUGAS
+            </button>
+            <button class="nav-btn" id="btn-random" onclick="loadContent('random')">
+                <i class="fas fa-random"></i> RANDOM
+            </button>
+            <button class="nav-btn" id="btn-game" onclick="loadContent('game')">
+                <i class="fas fa-gamepad"></i> GAME
+            </button>
+        </nav>
+
+        <section id="content-section">
+            <div class="content-controls">
+                <div class="search-bar">
+                    <input type="text" id="search-input" placeholder="Cari tugas atau konten..." onkeypress="handleSearchEnter(event)">
+                    <i class="fas fa-search"></i>
+                </div>
+                <div class="filter-bar">
+                    <select id="filter-select" onchange="filterContent()">
+                        <option value="all">Semua</option>
+                        <option value="tugas">Tugas</option>
+                        <option value="random">Random</option>
+                        <option value="game">Game</option>
+                    </select>
+                </div>
+            </div>
+            <div class="masuk">
+                <h1>Selamat Datang</h1>
+                <p class="welcome-text">Pilih menu di atas untuk melihat tugas, konten random, atau game yang tersedia untuk Anda.</p>
+            </div>
+        </section>
+
+        <footer>
+            <div class="social-media">
+                <a href="https://www.youtube.com/@badutzy" target="_blank"><i class="fab fa-youtube"></i> YouTube</a>
+                <a href="https://x.com/BadutZ_" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
+                <a href="https://www.instagram.com/zkyy._mss/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+            </div>
+            <p>© 2025 BadutzY. All rights reserved.</p>
+        </footer>
+    </div>
+
+    <!-- SweetAlert2 JS CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.12.4/dist/sweetalert2.all.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
