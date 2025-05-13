@@ -8,7 +8,7 @@ const SESSION_TIMEOUT = 30 * 60 * 1000; // 30 minutes in milliseconds
 const config = {
     tugas: {
         count: 12,
-        filterOptions: ['Semua', 'Website', 'PPLG', 'Informatika', 'P5', 'Ulangan', 'Projek Sekolah', 'Personal Project'],
+        filterOptions: ['Semua', 'Website', 'PPLG', 'Informatika', 'P5', 'Ulangan', 'Projek Sekolah', 'Projek Pribadi'],
         titles: [
             'Rizky Phortopolio (PPLG)',
             'E-commerce (PPLG)',
@@ -19,10 +19,10 @@ const config = {
             'Global Multimedia Creative School (Informatika)',
             'Benteng Vredeburg (Informatika Ulangan)',
             'Prototype Product (P5)',
-            'Infokom Esports (Personal Project)',
-            'Pemutar Lagu (Personal Project)',
-            'JKT48 (Personal Project)',
-            'Fritzy Force (Personal Project)'
+            'Infokom Esports (Projek Pribadi)',
+            'Pemutar Lagu (Projek Pribadi)',
+            'JKT48 (Projek Pribadi)',
+            'Fritzy Force (Projek Pribadi)'
         ],
         links: [
             'https://drive.google.com/file/d/1Ic_I9jzWZCQHHe2UTL6tS53ydogArSRV/view?usp=drive_link',
@@ -64,10 +64,10 @@ const config = {
             ['Semua', 'Website', 'Informatika', 'Projek Sekolah'],
             ['Semua', 'Website', 'Informatika', 'Ulangan', 'Projek Sekolah'],
             ['Semua', 'Website', 'P5', 'Projek Sekolah'],
-            ['Semua', 'Website', 'Personal Project'],
-            ['Semua', 'Website', 'Personal Project'],
-            ['Semua', 'Website', 'Personal Project'],
-            ['Semua', 'Website', 'Personal Project']
+            ['Semua', 'Website', 'Projek Pribadi'],
+            ['Semua', 'Website', 'Projek Pribadi'],
+            ['Semua', 'Website', 'Projek Pribadi'],
+            ['Semua', 'Website', 'Projek Pribadi']
         ]
     },
     random: {
@@ -164,8 +164,10 @@ function initApp() {
     document.addEventListener('click', closeDropdownOutside);
 
     function closeDropdownOutside(event) {
-        if (!profile.contains(event.target)) {
-            document.getElementById('dropdown').style.display = 'none';
+        const dropdown = document.getElementById('dropdown');
+        // Jangan tutup dropdown jika klik terjadi di dalam profile atau dropdown
+        if (!profile.contains(event.target) && !dropdown.contains(event.target)) {
+            dropdown.style.display = 'none';
         }
     }
 
@@ -284,8 +286,10 @@ function login() {
     }, 1000);
 }
 
-function toggleDropdown() {
+function toggleDropdown(event) {
+    event.stopPropagation(); // Mencegah event klik menyebar ke dokumen
     const dropdown = document.getElementById('dropdown');
+    console.log('Toggle dropdown:', dropdown.style.display); // Debugging
     dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
 }
 
@@ -323,6 +327,11 @@ function performLogout() {
 
         mainContent.style.transform = '';
         mainContent.style.opacity = '';
+
+        // Reset login button state
+        const loginBtn = document.querySelector('.login-btn');
+        loginBtn.innerHTML = '<i class="fas fa-sign-in-alt"></i> Login';
+        loginBtn.disabled = false;
 
         const loginPage = document.getElementById('login-page');
         loginPage.classList.add('page-transition');
