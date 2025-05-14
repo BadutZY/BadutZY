@@ -7,7 +7,7 @@ const SESSION_TIMEOUT = 30 * 60 * 1000; // 30 minutes in milliseconds
 // Configuration for content sections
 const config = {
     tugas: {
-        count: 12,
+        count: 13,
         filterOptions: ['Semua', 'Website', 'PPLG', 'Informatika', 'P5', 'Ulangan', 'Projek Sekolah', 'Projek Pribadi'],
         titles: [
             'Rizky Phortopolio (PPLG)',
@@ -30,7 +30,7 @@ const config = {
             'https://drive.google.com/file/d/1gPYkjw-43upjBaIeM6vU2av1b8nnOJk_/view?usp=drive_link',
             'https://drive.google.com/file/d/1gOnKBEMumWdVYyWZVx5O86c-68R05QSc/view?usp=drive_link',
             'https://drive.google.com/file/d/1u8kswjyHiA1clqLsdTRSNH2lRC802zXb/view?usp=drive_link',
-            'https://drive.google.com/file/d/1zmaQ5fWUB5bOG4iMogw-G8la-3hGBK0d/view?usp=drive_link',
+            'https://drive.google.com/file/d/1izMk3KKblZKDnpus7bMTWImTHTQvuH_9/view?usp=drive_link',
             'https://drive.google.com/file/d/130eund1tmFpNBm2HL2QwcdoD7M1Irp2n/view?usp=drive_link',
             'https://drive.google.com/file/d/1QWXONFzPr59pCaGoi7E_YVRy4OeRQ6dd/view?usp=drive_link',
             'https://drive.google.com/file/d/1wveuWq5uqr17z7IowVeCitwXdKnCKTtA/view?usp=drive_link',
