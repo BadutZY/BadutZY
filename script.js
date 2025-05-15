@@ -7,7 +7,7 @@ const SESSION_TIMEOUT = 30 * 60 * 1000; // 30 minutes in milliseconds
 // Configuration for content sections
 const config = {
     tugas: {
-        count: 13,
+        count: 14,
         filterOptions: ['Semua', 'Website', 'PPLG', 'Informatika', 'P5', 'Ulangan', 'Projek Sekolah', 'Projek Pribadi'],
         titles: [
             'Rizky Phortopolio (PPLG)',
@@ -16,6 +16,7 @@ const config = {
             'Kereta (PPLG)',
             'Bioskop (PPLG)',
             'Perpustakaan (PPLG Ulangan)',
+            'Company Profile (PPLG)',
             'Global Multimedia Creative School (Informatika)',
             'Benteng Vredeburg (Informatika Ulangan)',
             'Prototype Product (P5)',
@@ -31,6 +32,7 @@ const config = {
             'https://drive.google.com/file/d/1gOnKBEMumWdVYyWZVx5O86c-68R05QSc/view?usp=drive_link',
             'https://drive.google.com/file/d/1u8kswjyHiA1clqLsdTRSNH2lRC802zXb/view?usp=drive_link',
             'https://drive.google.com/file/d/1izMk3KKblZKDnpus7bMTWImTHTQvuH_9/view?usp=drive_link',
+            'https://drive.google.com/file/d/1QXXaa5c2TcNAFZAOpoCLmg39fWSovUiC/view?usp=drive_link',
             'https://drive.google.com/file/d/130eund1tmFpNBm2HL2QwcdoD7M1Irp2n/view?usp=drive_link',
             'https://drive.google.com/file/d/1QWXONFzPr59pCaGoi7E_YVRy4OeRQ6dd/view?usp=drive_link',
             'https://drive.google.com/file/d/1wveuWq5uqr17z7IowVeCitwXdKnCKTtA/view?usp=drive_link',
@@ -46,6 +48,7 @@ const config = {
             'Tiket Kereta Website',
             'Tiket Bioskop Website',
             'Perpustakaan Website',
+            'Company Profile',
             'Global Multimedia Creative School Website',
             'Benteng Vredeburg Website',
             'Prototype Produk Website',
@@ -61,6 +64,7 @@ const config = {
             ['Semua', 'Website', 'PPLG', 'Projek Sekolah'],
             ['Semua', 'Website', 'PPLG', 'Projek Sekolah'],
             ['Semua', 'Website', 'PPLG', 'Ulangan', 'Projek Sekolah'],
+            ['Semua', 'Website', 'PPLG', 'Projek Sekolah'],
             ['Semua', 'Website', 'Informatika', 'Projek Sekolah'],
             ['Semua', 'Website', 'Informatika', 'Ulangan', 'Projek Sekolah'],
             ['Semua', 'Website', 'P5', 'Projek Sekolah'],
