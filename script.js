@@ -53,7 +53,7 @@ const config = {
             'Benteng Vredeburg Website',
             'Prototype Produk Website',
             'Infokom Esports Website',
-            'Website Pemutar Lagu Website',
+            'Pemutar Lagu Website',
             'JKT48 Website',
             'Fritzy Force Website'
         ],
