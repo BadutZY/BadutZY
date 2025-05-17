@@ -111,11 +111,11 @@ const config = {
         ],
         links: [
             'https://drive.google.com/file/d/1Fktic2rU2Gcr0oTd9rM_1piIB6zfbfif/view?usp=drive_link',
-            'https://drive.google.com/file/d/1hgbnzQ2dg3GwHTLqu9UpUuOL_6aoXnJk/view?usp=drive_link'
+            'https://drive.google.com/file/d/1yNmQenJap9-wsVNBee37qxg3SXl3yWoi/view?usp=drive_link'
         ],
         descriptions: [
             'Link download Projek game BOX SIEGE',
-            'Link download game BOX SIEGE (sedikit bug)'
+            'Link download game BOX SIEGE'
         ],
         filters: [
             ['Semua', 'Projek'],
