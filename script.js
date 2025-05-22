@@ -110,7 +110,7 @@ const config = {
             'Game BOX SIEGE'
         ],
         links: [
-            'https://drive.google.com/file/d/1Fktic2rU2Gcr0oTd9rM_1piIB6zfbfif/view?usp=drive_link',
+            'https://drive.google.com/file/d/1t_PVtllIWV_s4cmHdVV00Q6H8J0-ciCY/view?usp=drive_link',
             'https://drive.google.com/file/d/1yNmQenJap9-wsVNBee37qxg3SXl3yWoi/view?usp=drive_link'
         ],
         descriptions: [
