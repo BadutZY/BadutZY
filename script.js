@@ -261,7 +261,6 @@ function login() {
     loginBtn.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Verifying...';
     loginBtn.disabled = true;
 
-    //formalitas password
     setTimeout(() => {
         if (username === 'BadutZY' && password === 'Fritzy123') {
             isLoggedIn = true;
