@@ -57,7 +57,7 @@ const config = {
             'Infokom Esports Website',
             'Pemutar Lagu Website',
             'JKT48 Website',
-            'Fritzy Force Website'
+            'Fritzy Force Website',
             'Equinox Website'
         ],
         filters: [
