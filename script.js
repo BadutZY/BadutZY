@@ -7,7 +7,7 @@ const SESSION_TIMEOUT = 30 * 60 * 1000; // 30 minutes in milliseconds
 // Configuration for content sections
 const config = {
     tugas: {
-        count: 14,
+        count: 15,
         filterOptions: ['Semua', 'Website', 'PPLG', 'Informatika', 'P5', 'Ulangan', 'Projek Sekolah', 'Projek Pribadi'],
         titles: [
             'Rizky Phortopolio (PPLG)',
@@ -23,7 +23,8 @@ const config = {
             'Infokom Esports (Projek Pribadi)',
             'Pemutar Lagu (Projek Pribadi)',
             'JKT48 (Projek Pribadi)',
-            'Fritzy Force (Projek Pribadi)'
+            'Fritzy Force (Projek Pribadi)',
+            'Equinox Web'
         ],
         links: [
             'https://drive.google.com/file/d/1Ic_I9jzWZCQHHe2UTL6tS53ydogArSRV/view?usp=drive_link',
@@ -39,7 +40,8 @@ const config = {
             'https://drive.google.com/file/d/1LqIboJOCTpcIpT3LhWaSTvZftIyD1F75/view?usp=drive_link',
             'https://drive.google.com/file/d/16WH1twAVmYhCobDPCvMME7NMMXJZ6qtz/view?usp=drive_link',
             'https://drive.google.com/file/d/1z4lVvNoreOJ6-1UiDm8DGT5rXiVtKG4Q/view?usp=drive_link',
-            'https://drive.google.com/file/d/1DpAK68fdhvipPuWYpuJfX9WJIBbNQfi5/view?usp=drive_link'
+            'https://drive.google.com/file/d/1DpAK68fdhvipPuWYpuJfX9WJIBbNQfi5/view?usp=drive_link',
+            'https://drive.google.com/file/d/1G4UKOa3L7JvlgtlSaiTZ9mnkA9iarbkz/view?usp=drive_link'
         ],
         descriptions: [
             'Rizky Phortopolio Website.',
@@ -56,6 +58,7 @@ const config = {
             'Pemutar Lagu Website',
             'JKT48 Website',
             'Fritzy Force Website'
+            'Equinox Website'
         ],
         filters: [
             ['Semua', 'Website', 'PPLG', 'Projek Sekolah'],
@@ -71,7 +74,8 @@ const config = {
             ['Semua', 'Website', 'Projek Pribadi'],
             ['Semua', 'Website', 'Projek Pribadi'],
             ['Semua', 'Website', 'Projek Pribadi'],
-            ['Semua', 'Website', 'Projek Pribadi']
+            ['Semua', 'Website', 'Projek Pribadi'],
+            ['Semua', 'Website', 'PPLG', 'Projek Pribadi', 'Projek Sekolah']
         ]
     },
     random: {
