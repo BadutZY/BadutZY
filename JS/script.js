@@ -97,7 +97,7 @@ const contentData = [
         downloads: '200k+',
         logo: 'IMG/LOGO/bs.png',
         banner: 'IMG/BG/darkmodebg.jpg',
-        url: 'https://www.dropbox.com/scl/fi/fcz0xlg24xd54lfeou2d8/BadutZY.zip?rlkey=f0v6jmp7jo87670v4m7jp369v&st=lhyijn9t&dl=1'
+        url: 'https://www.dropbox.com/scl/fi/cdztewrzjyc8m21df0ve4/BadutZY.zip?rlkey=tl0i5x9rxtg0re99kkgkddzje&st=nlqpf8ze&dl=1'
     },
     {
         type: 'other',
@@ -386,4 +386,5 @@ function openContent(url) {
 // Initialize on load
 
 document.addEventListener('DOMContentLoaded', init);
+
 
