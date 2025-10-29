@@ -1,4 +1,3 @@
-// Data Konten dengan gambar banner dan logo
 const contentData = [
     {
         type: 'modpack',
@@ -394,6 +393,7 @@ function openContent(url) {
 // Initialize on load
 
 document.addEventListener('DOMContentLoaded', init);
+
 
 
 
