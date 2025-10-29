@@ -68,8 +68,8 @@ const contentData = [
         description: 'based on 1v1 best of 3, and the time of each round can be set from 30 seconds to 5 minutes. Additional power up items are scattered around the map.',
         logo: 'IMG/LOGO/boxsiege.jpg',
         banner: 'IMG/BG/boxsiegebg.png',
-        url: 'https://www.dropbox.com/scl/fi/zc25hn16kd390y4uhg8d4/BOX-SIEGE-BETA.zip?rlkey=0uz8khc245yjck9xed2xabotm&st=20gai9i2&dl=1',
-        buttonText: 'Download Game'
+        url: 'https://equinoxinteractive.github.io/BoxSiege/',
+        buttonText: 'Visit the website'
     },
     {
         type: 'texture',
@@ -395,3 +395,4 @@ function openContent(url, event) {
 
 // Initialize on load
 document.addEventListener('DOMContentLoaded', init);
+
