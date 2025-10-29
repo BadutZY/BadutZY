@@ -191,8 +191,7 @@ function initEasterEgg() {
     const modalOverlay = document.getElementById('modalOverlay');
     const modalClose = document.getElementById('modalClose');
     const videoFrame = document.getElementById('videoFrame');
-    
-    // Format: https://drive.google.com/file/d/FILE_ID/preview
+
     const videoUrl = 'https://drive.google.com/file/d/19q6lE_auUtgT7H-_RF0jP0KbD-b9vHDV/preview';
     
     // Open Modal
@@ -395,6 +394,7 @@ function openContent(url) {
 // Initialize on load
 
 document.addEventListener('DOMContentLoaded', init);
+
 
 
 
