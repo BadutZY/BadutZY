@@ -103,8 +103,8 @@ const contentData = [
         title: 'BadutZY’s Icon',
         description: 'Just change some icons in Geometry Dash.',
         downloads: 'Private',
-        logo: 'IMG/LOGO/icon.jpg',
-        banner: 'IMG/BG/darkmodebg.jpg',
+        logo: 'IMG/LOGO/bs.png',
+        banner: 'IMG/BG/iconbg.jpg',
         url: 'https://www.dropbox.com/scl/fi/g0dgm6o8f0edl45hnj6d7/BadutZY-s-Icon.zip?rlkey=36d7afshy74fk4w96m80jprkl&st=rec4vfz0&dl=1'
     },
     {
@@ -393,6 +393,7 @@ function openContent(url) {
 // Initialize on load
 
 document.addEventListener('DOMContentLoaded', init);
+
 
 
 
