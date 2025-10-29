@@ -101,7 +101,7 @@ const contentData = [
     },
     {
         type: 'texture',
-        title: 'BadutZY',
+        title: 'BadutZY’s Icon',
         description: 'Just change some icons in Geometry Dash.',
         downloads: 'Private',
         logo: 'IMG/LOGO/bs.png',
@@ -395,5 +395,6 @@ function openContent(url) {
 // Initialize on load
 
 document.addEventListener('DOMContentLoaded', init);
+
 
 
