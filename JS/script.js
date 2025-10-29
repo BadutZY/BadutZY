@@ -85,7 +85,7 @@ const contentData = [
         type: 'texture',
         title: 'DarkMode',
         description: 'Customize the game so that dark mode goes where the texture pack can’t reach.',
-        downloads: '200k+',
+        downloads: 'Private',
         logo: 'IMG/LOGO/darkmode.png',
         banner: 'IMG/BG/darkmodebg.jpg',
         url: 'https://geode-sdk.org/mods/bitz.darkmode_v4'
@@ -94,10 +94,19 @@ const contentData = [
         type: 'texture',
         title: 'DarkMode By BadutZY',
         description: 'Customize the game so that dark mode goes where the texture pack can’t reach edited by BadutZY.',
-        downloads: '200k+',
+        downloads: 'Private',
         logo: 'IMG/LOGO/bs.png',
         banner: 'IMG/BG/darkmodebg.jpg',
         url: 'https://www.dropbox.com/scl/fi/cdztewrzjyc8m21df0ve4/BadutZY.zip?rlkey=tl0i5x9rxtg0re99kkgkddzje&st=nlqpf8ze&dl=1'
+    },
+    {
+        type: 'texture',
+        title: 'BadutZY',
+        description: 'Just change some icons in Geometry Dash.',
+        downloads: 'Private',
+        logo: 'IMG/LOGO/bs.png',
+        banner: 'IMG/BG/darkmodebg.jpg',
+        url: 'https://www.dropbox.com/scl/fi/g0dgm6o8f0edl45hnj6d7/BadutZY-s-Icon.zip?rlkey=36d7afshy74fk4w96m80jprkl&st=rec4vfz0&dl=1'
     },
     {
         type: 'other',
