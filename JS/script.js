@@ -104,7 +104,7 @@ const contentData = [
         description: 'Just change some icons in Geometry Dash.',
         logo: 'IMG/LOGO/bs.png',
         banner: 'IMG/BG/iconbg.jpg',
-        url: 'https://www.dropbox.com/scl/fi/g0dgm6o8f0edl45hnj6d7/BadutZY-s-Icon.zip?rlkey=36d7afshy74fk4w96m80jprkl&st=rec4vfz0&dl=1',
+        url: 'https://www.dropbox.com/scl/fi/4mkmw255qlpv6vx628o9j/BadutZY-s-Icon.zip?rlkey=4aikxklqpbruxyg6odjw08gh1&st=hs5q9pbi&dl=1',
         buttonText: 'Download Texture'
     },
     {
@@ -395,4 +395,5 @@ function openContent(url, event) {
 
 // Initialize on load
 document.addEventListener('DOMContentLoaded', init);
+
 
