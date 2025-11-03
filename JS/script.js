@@ -91,11 +91,11 @@ const contentData = [
     },
     {
         type: 'texture',
-        title: 'DarkMode By BadutZY',
+        title: 'BadutZY’s Dark Mode',
         description: 'Customize the game so that dark mode goes where the texture pack can’t reach edited by BadutZY.',
         logo: 'IMG/LOGO/bs.png',
         banner: 'IMG/BG/darkmodebg.jpg',
-        url: 'https://www.dropbox.com/scl/fi/cdztewrzjyc8m21df0ve4/BadutZY.zip?rlkey=tl0i5x9rxtg0re99kkgkddzje&st=nlqpf8ze&dl=1',
+        url: 'https://www.dropbox.com/scl/fi/18tlgalgo9oxa1qbj23n6/BadutZY-s-Dark-Mode.zip?rlkey=aalibvg2i7jpsiw1dyxkxfu41&st=hbkcmzjq&dl=1',
         buttonText: 'Download Texture'
     },
     {
@@ -104,7 +104,7 @@ const contentData = [
         description: 'Just change some icons in Geometry Dash.',
         logo: 'IMG/LOGO/bs.png',
         banner: 'IMG/BG/iconbg.jpg',
-        url: 'https://www.dropbox.com/scl/fi/kov9l89uo13lgqm0u9z1v/BadutZY-s-Icon.zip?rlkey=44oitzgjkg2h3vpcuv1y4c4k3&st=14k4sp3e&dl=1',
+        url: 'https://www.dropbox.com/scl/fi/5czgtllsfc6z5v3nokiuk/BadutZY-s-Icon.zip?rlkey=g7cfillqwz2rnfpg8okau865a&st=g0hr3g5d&dl=1',
         buttonText: 'Download Texture'
     },
     {
@@ -395,6 +395,7 @@ function openContent(url, event) {
 
 // Initialize on load
 document.addEventListener('DOMContentLoaded', init);
+
 
 
 
