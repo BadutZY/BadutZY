@@ -169,6 +169,15 @@ const contentData = [
         banner: 'IMG/BG/whatbg.jpg',
         url: 'https://youtu.be/o43EeGiiG-k?si=P4pF_Soaoy0JI5-C',
         buttonText: 'Watch Video'
+    },
+    {
+        type: 'other',
+        title: 'PBO/PPL Tugas',
+        description: 'Tugas CRUD',
+        logo: 'IMG/LOGO/jvlg.png',
+        banner: 'IMG/BG/bdz.png',
+        url: 'https://www.dropbox.com/scl/fi/oce0t2t1t6ua3xryvpij9/PBO-Rizky-Maulana-Putra-XI-RPL-2.zip?rlkey=09il1t0qhbbl74xkk6a8qo5be&st=mzs3aa5t&dl=1',
+        buttonText: 'Download'
     }
 ];
 
@@ -395,6 +404,7 @@ function openContent(url, event) {
 
 // Initialize on load
 document.addEventListener('DOMContentLoaded', init);
+
 
 
 
