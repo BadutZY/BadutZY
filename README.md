@@ -3,7 +3,7 @@ Currently I am a vibe coder with several AI such as <a href="https://lovable.dev
 
 
 ## Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rzky.mp_36/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BadutZYY_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@badutzy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/badutzy) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rzky.mp_36/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BadutZYY_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@badutzy) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/badutzy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@badutzy._)
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-green?logo=modrinth)](https://modrinth.com/user/BadutZY) [![Curseforge](https://img.shields.io/badge/Curseforge-darkred?logo=curseforge)](https://www.curseforge.com/members/badutzy/projects)
 
