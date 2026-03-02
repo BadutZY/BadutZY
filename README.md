@@ -7,7 +7,7 @@ Currently I am a vibe coder with several AI such as <a href="https://lovable.dev
 
 [![Modrinth](https://img.shields.io/badge/Modrinth-green?logo=modrinth)](https://modrinth.com/user/BadutZY) [![Curseforge](https://img.shields.io/badge/Curseforge-darkred?logo=curseforge)](https://www.curseforge.com/members/badutzy/projects)
 
-### My Team
+### Equinox Interactive Team
 [![myteam](https://img.shields.io/badge/GitHub-black?logo=github
 )](https://github.com/EquinoxInteractive)
 
