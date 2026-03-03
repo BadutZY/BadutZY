@@ -21,4 +21,4 @@ Currently I am a vibe coder with several AI such as <a href="https://lovable.dev
 ![](https://github-contributor-stats.vercel.app/api?username=BadutZY&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
   ## You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@BADUTZY) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/BADUTZY) 
