@@ -10,7 +10,7 @@ Currently I am a vibe coder with several AI such as <a href="https://lovable.dev
 
 ###
 
-## Tech Stack:
+### Tech Stack:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -70,13 +70,11 @@ Currently I am a vibe coder with several AI such as <a href="https://lovable.dev
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/BadutZY/BadutZY/output/snake.svg" alt="Snake animation" />
 
 ###
 
-## Social Media
+## Social Media:
 
 <div align="left" style="height= 35;">
 
@@ -105,7 +103,7 @@ Currently I am a vibe coder with several AI such as <a href="https://lovable.dev
 </div>
 
 
-# GitHub Stats:
+## GitHub Stats:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BadutZY&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=BadutZY&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="languages graph"  />
@@ -113,7 +111,7 @@ Currently I am a vibe coder with several AI such as <a href="https://lovable.dev
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BadutZY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-  ## You can help me by Donating
+  ## You can help me by Donating:
   <a href="https://www.paypal.com/paypalme/BADUTZY">
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" height="35" alt="twitch logo"  />
   </a>
