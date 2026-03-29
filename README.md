@@ -1,8 +1,12 @@
 ![Header](IMG/banner.png)
 
 # About Me:
-Currently I am a vibe coder with several AI such as <a href="https://lovable.dev/"> ![Claude](https://img.shields.io/badge/Lovable%20AI-logo?style=for-the-badge&logo=ilovepdf&color=%23fe5422) </a> and <a href="https://claude.ai/"> ![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white)
- </a>. I usually make mods for Minecraft Java Edition, some of which I have released on Modrinth and Curseforge, and I also usually make websites with HTML, Java Script, CSS, or React JS. I am also learning coding at school with Laravel + Filament, PHP, and Java (GUI). I have also previously made a game with my team called Equinox Interactive which consists of 3 people, namely SwimmingFox, Ari8Bit, and BadutZY (me), a simple game made with Unity and C#, if you want to see more or download please visit Equinox Interactive.
+Currently I am a vibe coder with several AI. I usually make mods for Minecraft Java Edition, some of which I have released on Modrinth and Curseforge, and I also usually make websites with HTML, Java Script, CSS, or React JS. I am also learning coding at school with Laravel + Filament, PHP, and Java (GUI). I have also previously made a game with my team called Equinox Interactive which consists of 3 people, namely SwimmingFox, Ari8Bit, and BadutZY (me), a simple game made with Unity and C#, if you want to see more or download please visit Equinox Interactive.
+
+ <a href="https://lovable.dev/"> ![Claude](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge&logo=claude&logoColor=white) </a> for creating react websites
+ <a href="https://claude.ai/"> ![Lovable](https://img.shields.io/badge/Lovable%20AI-logo?style=for-the-badge&logo=ilovepdf&color=%23fe5422) </a> for creating websites, Minecraft mods and game
+ <a href="https://grok.com/"> ![Grok](https://img.shields.io/badge/Grok-logo?style=for-the-badge&color=black) </a> for creating game
+
 
 ###
 
@@ -36,8 +40,6 @@ Currently I am a vibe coder with several AI such as <a href="https://lovable.dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
