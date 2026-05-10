@@ -85,7 +85,7 @@ Currently I am a vibe coder with several AI. I usually make mods for Minecraft J
 
 <div align="left" style="height= 35;">
 
-[![Website](https://img.shields.io/badge/Website-logo?style=for-the-badge&logo=htmx&logoColor=white&color=black)](https://rizky-website.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-logo?style=for-the-badge&logo=htmx&logoColor=white&color=black)](https://badutzy.vercel.app/)
 [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://instagram.com/rzky.mp_36/)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/BadutZYY_)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@badutzy)
