@@ -104,7 +104,7 @@ Currently I am a vibe coder with several AI. I usually make mods for Minecraft J
 <div align="left" style="height= 35;">
 
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EquinoxInteractive)
-[![Website](https://img.shields.io/badge/Website-logo?style=for-the-badge&logo=htmx&logoColor=white&color=black)](https://equinox-website-seven.vercel.app/)
+[![Website](https://img.shields.io/badge/Website-logo?style=for-the-badge&logo=htmx&logoColor=white&color=black)](https://equinoxinteractive.vercel.app/)
 
 
 </div>
