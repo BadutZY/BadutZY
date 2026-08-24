@@ -15,7 +15,7 @@ Currently I am a vibe coder with several AI. I usually make mods for Minecraft J
 
 ###
 
-<img align="right" height="400" src="IMG/kimmy1.gif"  />
+<img align="right" height="400" src="IMG/kimmy.gif"  />
 
 ###
 
